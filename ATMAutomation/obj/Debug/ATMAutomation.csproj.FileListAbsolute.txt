@@ -1,0 +1,12 @@
+C:\Users\damla\Desktop\Projects\ATMAutomation\ATMAutomation\bin\Debug\ATMAutomation.exe.config
+C:\Users\damla\Desktop\Projects\ATMAutomation\ATMAutomation\bin\Debug\ATMAutomation.exe
+C:\Users\damla\Desktop\Projects\ATMAutomation\ATMAutomation\bin\Debug\ATMAutomation.pdb
+C:\Users\damla\Desktop\Projects\ATMAutomation\ATMAutomation\obj\Debug\ATMAutomation.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\ATMAutomation\ATMAutomation\obj\Debug\ATMAutomation.exe
+C:\Users\damla\Desktop\Projects\ATMAutomation\ATMAutomation\obj\Debug\ATMAutomation.pdb
+C:\Users\damla\Desktop\Projects_C#\ATMAutomation\ATMAutomation\bin\Debug\ATMAutomation.exe.config
+C:\Users\damla\Desktop\Projects_C#\ATMAutomation\ATMAutomation\obj\Debug\ATMAutomation.exe
+C:\Users\damla\Desktop\Projects_C#\ATMAutomation\ATMAutomation\obj\Debug\ATMAutomation.pdb
+C:\Users\damla\Desktop\Projects_C#\ATMAutomation\ATMAutomation\bin\Debug\ATMAutomation.exe
+C:\Users\damla\Desktop\Projects_C#\ATMAutomation\ATMAutomation\bin\Debug\ATMAutomation.pdb
+C:\Users\damla\Desktop\Projects_C#\ATMAutomation\ATMAutomation\obj\Debug\ATMAutomation.csprojResolveAssemblyReference.cache
